@@ -43,5 +43,5 @@ window.addEventListener("scroll", ()=>{
   jobTitles[1].style.transform = `translateX(calc(-300vh + ${offsetY}px))`
   certsTitle.style.transform = `translateY(calc(390vh - ${offsetY}px))`
   phones[0].style.transform = `translateX(calc(480vh - ${offsetY}px))`
-  laptop.style.transform = `translateX(calc(615vh - ${offsetY}px))`
+  laptop.style.transform = `translateX(calc(620vh - ${offsetY}px))`
 })
